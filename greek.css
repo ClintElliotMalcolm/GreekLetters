@@ -1,0 +1,23 @@
+#letter {
+	font-size: 200pt;
+}
+
+#alphabet {
+	width: 8em;
+}
+
+#word {
+	font-size: 90pt;
+}
+
+label {
+	font-size: 40pt;
+}
+
+li {
+	font-size: 17pt;
+}
+
+body {
+	font-size: 15pt;
+}
